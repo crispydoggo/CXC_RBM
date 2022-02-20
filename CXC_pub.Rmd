@@ -52,7 +52,7 @@ add_rbm <- function(file, n){
 
 
 
-RBM <- read_excel("RBM_CXC.xlsx")
+RBM <- read_excel("RBM_CXC_KP.xlsx")
 RBM_ideal <- read_excel("RI_ideal.xlsx")
 
 RBM_ideal <- RBM_ideal %>%  
